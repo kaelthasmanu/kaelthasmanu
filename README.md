@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Sysadmin, in my spare time I am a Developer 🙃<br><br>Studying DevOps and improving my skills as a programmer 🙇‍♂️
+I am currently working as a DevOps, in my spare time I am a Developer 🙃🙇‍♂️
 
 
 # 💻 Tech Stack:
