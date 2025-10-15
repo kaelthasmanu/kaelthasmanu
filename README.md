@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a DevOps, in my spare time I am a Developer 🙃🙇‍♂️
+I am currently working as a DevOps/SRE, in my spare time I am a Developer 🙃🙇‍♂️
 
 
 # 💻 Tech Stack:
