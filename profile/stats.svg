@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Manuel Gorrin's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 47, Total Commits  (last year) : 1212, Total PRs: 79, Total Issues: 13, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 47, Total Commits  (last year) : 1247, Total PRs: 80, Total Issues: 13, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 100.88705447018033;
+        stroke-dashoffset: 100.46321173079689;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >79</text>
+      >80</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
